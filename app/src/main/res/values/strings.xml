@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo Search</string>
+    <string name="enter_search_keyword">Enter search keyword&#8230;</string>
+    <string name="search_title">Showing results for <b>\"%s\"</b></string>
+</resources>
